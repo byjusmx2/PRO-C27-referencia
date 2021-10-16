@@ -1,2 +1,2 @@
-# PRO-C27-Reference
-Reference code for c27
+# PRO-C27-referencia
+Código de referencia para c27
